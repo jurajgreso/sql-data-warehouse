@@ -4,6 +4,8 @@ Welcome to the **Data Warehouse Project** repository!
 This is a comprehensive data warehouse solution in Microsoft SQL Server.
 I have followed the best practices in data engineering and analytics that I learned from Baraa Khatib Salkini, the Lead Data Engineering, Analytics & AI @Mercedes-Benz AG and YouTube Educator ["DataWithBaraa"](https://www.youtube.com/@DataWithBaraa).
 
+Let's stay in touch! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jurajgreso/).
+
 ---
 
 ## 🏗️ Data Architecture
